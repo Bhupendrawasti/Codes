@@ -1,5 +1,5 @@
 body {
-    font-size: 60px;
+    font-size: 100px;
     background:red;
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body {
 
 .loader span {
     font-family: Algerian, Helvetica, sans-serif;
-    font-size: 80px;
+    font-size: 100px;
     color: rgba(255, 255, 0, .1);
     display: inline-block;
     transition: all .8s;
