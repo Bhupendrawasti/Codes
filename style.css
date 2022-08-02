@@ -5,6 +5,10 @@ body {
     padding: 0;
 }
 
+.p{
+font-size: 200px;
+}
+
 .loader {
     height: 70px;
     position: absolute;
